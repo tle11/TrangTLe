@@ -12,6 +12,7 @@ url: "https://tle11.github.io/" # the base hostname & protocol for your site, e.
 social:
   name: Your Name
   links:
+    - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
     - https://www.linkedin.com/in/BenBalter
     - https://plus.google.com/+BenBalter
@@ -25,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  trangle@huskers.unl.edu
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
