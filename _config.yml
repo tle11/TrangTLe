@@ -26,7 +26,9 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  trangle@huskers.unl.edu
+  trangle@huskers.unl.edu 
+  •
+  (402) 730-9585
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
