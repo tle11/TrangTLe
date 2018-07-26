@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Categories
+title: Resume
 permalink: /categories/
 ---
+
 
 <div>
 {% for category in site.categories %}
